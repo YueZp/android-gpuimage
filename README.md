@@ -1,3 +1,15 @@
+GPUImage 毫无疑问是音视频项目里面必读工程了，它的侧重点在于渲染方面。
+
+有些公司的招聘要求上可能都会写明熟悉GPUImage ，重要性可见一斑。
+
+通过阅读 GPUImage 的源码，能够让你掌握 OpenGL 的渲染以及渲染链的搭建，同时工程里面很多特效 Shader 代码，通过阅读和实践这些 Shader 代码，能够让你掌握初步的 Shader 编写能力。
+
+比如常见的滤镜效果，在 GPUImage 就有现成的代码例子，这一点在我的直播中也有讲到。有兴趣的可以翻阅视频，掌握常见滤镜效果的代码编写。
+
+如果需要 GPUImage 相关的源码分析文档，也可以参考我之前写过的一篇文章：
+
+OpenGL 之 GPUImage 源码分析
+
 # GPUImage for Android
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Download](https://api.bintray.com/packages/cats-oss/maven/gpuimage/images/download.svg) ](https://bintray.com/cats-oss/maven/gpuimage/_latestVersion)
